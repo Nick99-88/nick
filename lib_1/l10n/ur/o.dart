@@ -1,0 +1,17 @@
+const Map<String, String> urO = {
+  'officialBroadcast': 'سرکاری براڈکاسٹ',
+  'officialNotices': 'سرکاری نوٹسز',
+  'ok': 'ٹھیک ہے',
+  'online': 'آن لائن',
+  'openTeacherRecordFailed': 'استاد کا ریکارڈ نہیں کھل سکا: {error}',
+  'or': 'یا',
+  'otherSystems': 'دیگر سسٹمز',
+  'otpIssued': 'OTP جاری کر دیا گیا۔',
+  'otpResent': 'OTP ای میل پر دوبارہ بھیج دیا گیا',
+  'otpSentSuccess': 'OTP کامیابی سے بھیج دیا گیا!',
+  'otpVerificationFailed': 'OTP تصدیق ناکام: {error}',
+  'otpVerifiedSuccessfully': 'OTP کامیابی سے تصدیق شدہ',
+  'ownerChat': 'اونر چیٹ',
+  'ownerChatGateway': 'اونر چیٹ گیٹ وے',
+  'ownerIdentityIntro': 'اپنے ادارے کو مؤثر طریقے سے چلانے کے لیے، براہ کرم اپنا قانونی اور پیشہ ورانہ شناختی ریکارڈ مکمل کریں۔',
+};

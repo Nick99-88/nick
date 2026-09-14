@@ -1,0 +1,15 @@
+const Map<String, String> enM = {
+  'mainBadge': 'MAIN',
+  'managementModules': 'MANAGEMENT MODULES',
+  'messageHint': 'Message',
+  'mfaDisableMsg': 'To disable secondary verification, we will send an SMS OTP to {phone}.',
+  'mfaDisabledSuccess': 'Secondary Verification turned OFF successfully!',
+  'mfaEnableMsg': 'To enable secondary verification, we will send an SMS OTP to {phone}.',
+  'mfaEnabledSuccess': 'Secondary Verification turned ON successfully!',
+  'mfaVerification': 'MFA VERIFICATION',
+  'mfaVerifyOtpPrefix': 'Verify OTP sent to your registered phone ending in ',
+  'minutesAgo': '{n} m ago',
+  'monthlySalary': 'Monthly Salary',
+  'muteNotifications': 'Mute notifications',
+  'myStatus': 'My Status',
+};

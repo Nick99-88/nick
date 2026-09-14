@@ -1,0 +1,15 @@
+const Map<String, String> urM = {
+  'mainBadge': 'مین',
+  'managementModules': 'انتظامی ماڈیولز',
+  'messageHint': 'پیغام',
+  'mfaDisableMsg': 'ثانوی تصدیق غیر فعال کرنے کے لیے، ہم {phone} پر SMS OTP بھیجیں گے۔',
+  'mfaDisabledSuccess': 'ثانوی تصدیق کامیابی سے غیر فعال ہوئی!',
+  'mfaEnableMsg': 'ثانوی تصدیق فعال کرنے کے لیے، ہم {phone} پر SMS OTP بھیجیں گے۔',
+  'mfaEnabledSuccess': 'ثانوی تصدیق کامیابی سے فعال ہوئی!',
+  'mfaVerification': 'ایم ایف اے تصدیق',
+  'mfaVerifyOtpPrefix': 'اپنے رجسٹرڈ فون پر بھیجے گئے OTP کی تصدیق کریں جو ان ہندسوں پر ختم ہوتا ہے: ',
+  'minutesAgo': '{n} منٹ پہلے',
+  'monthlySalary': 'ماہانہ تنخواہ',
+  'muteNotifications': 'نوٹیفیکیشنز خاموش کریں',
+  'myStatus': 'میری حیثیت',
+};

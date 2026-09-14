@@ -1,0 +1,17 @@
+const Map<String, String> enO = {
+  'officialBroadcast': 'Official Broadcast',
+  'officialNotices': 'Official Notices',
+  'ok': 'OK',
+  'online': 'Online',
+  'openTeacherRecordFailed': 'Could not open teacher record: {error}',
+  'or': 'OR',
+  'otherSystems': 'OTHER SYSTEMS',
+  'otpIssued': 'OTP Issued.',
+  'otpResent': 'OTP resent to email',
+  'otpSentSuccess': 'OTP sent successfully!',
+  'otpVerificationFailed': 'OTP verification failed: {error}',
+  'otpVerifiedSuccessfully': 'OTP Verified successfully',
+  'ownerChat': 'Owner Chat',
+  'ownerChatGateway': 'Owner Chat Gateway',
+  'ownerIdentityIntro': 'To manage your institution effectively, please finalize your legal and professional identity record.',
+};
